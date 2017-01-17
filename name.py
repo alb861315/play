@@ -1,0 +1,1 @@
+print Alice and Mary
